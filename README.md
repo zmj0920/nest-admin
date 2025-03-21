@@ -2,6 +2,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+nest框架实现后台权限管理系统，集成用户登录，菜单权限管理。
 
 ## Installation
 
